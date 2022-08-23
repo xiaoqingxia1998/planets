@@ -1,1 +1,4 @@
 global core.autocrlf,,,,,
+git status
+it's very small
+
